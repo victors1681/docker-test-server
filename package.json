@@ -1,0 +1,23 @@
+{
+  "name": "docker-test-server",
+  "version": "1.0.0",
+  "description": "testing app testing repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victors1681/docker-test-server.git"
+  },
+  "author": "victor santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victors1681/docker-test-server/issues"
+  },
+  "homepage": "https://github.com/victors1681/docker-test-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
